@@ -79,3 +79,19 @@ li{
     cursor: pointer;
 
 }
+.profile-image {
+    display: inline-block;
+    border-radius: 50%;
+    border:15px solid #1faaa8;
+    padding: 3px;
+}
+.profile-image{
+    display:block;
+    border-radius: 48%;
+    width: 350px;
+    height:350px;
+    -webkit-border-radius: 48%;
+    -moz-border-radius: 48%;
+    -ms-border-radius: 48%;
+    -o-border-radius: 48%;
+}
